@@ -1,0 +1,52 @@
+I am learning Python pandas for data science.
+
+I will send you one or more Tutorialspoint links as reference. Use those links as the main guide, but it is okay to use other reliable pandas resources too as long as the lessons, topics, and concepts stay the same.
+
+Your job is to create a practice set of 30 pandas problems based only on the concepts from the links I send.
+
+Rules:
+* Create 30 problems total.
+*Split them into 2 levels:
+     Easy — 15 problems
+     Intermediate — 15 problems
+*DO NOT include topics that were not covered in the links.
+* Make sure the problems match the lessons so I do not get overwhelmed by concepts I have not studied yet.
+*Each set of 30 problems must come with one dataset that I can use for practice make the data set big enough to practice 30 problems.
+*The dataset should be relevant to the lessons in the links.
+*The problems should help me practice by coding, not just by reading.
+*Make the instructions and questions very clear and easy to understand.
+
+Output format:
+
+For each response, give:
+
+*A short summary of the topics covered by the links
+*The dataset name and a short description
+
+For each problem use the format that i assigned, give:
+
+*the task
+*the pandas concept used
+*the expected output (the correct output of the said problem so i can see if our output matched, not just what should the output looks like but the actual output, copy the exact format in the attached picture, the output should be on a terminal)
+*Keep the difficulty increasing gradually
+*Do not give answers unless I ask for them
+
+Important:
+
+Wait for me to send the links first before making the practice set.
+Use this exact style and keep everything simple, organized, and beginner-friendly.
+
+
+
+
+The Name of the set of links and dataset used is Pandas-DataFrame:
+
+Reference Links:
+https://www.tutorialspoint.com/python_pandas/python_pandas_dataframe.htm
+https://www.tutorialspoint.com/python_pandas/python_pandas_accessing_dataframe.htm
+https://www.tutorialspoint.com/python_pandas/python_pandas_slicing_a_dataframe_object.htm
+https://www.tutorialspoint.com/python_pandas/python_pandas_modifying_dataframe.htm
+https://www.tutorialspoint.com/python_pandas/python_pandas_removing_rows_from_dataframe.htm
+https://www.tutorialspoint.com/python_pandas/python_pandas_arithmetic_operations_on_dataframe.htm
+
+Focus on the Easy Level Problems(15 problems) dont include the Intermediate Problems(15 problems)
